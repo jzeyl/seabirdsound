@@ -1,7 +1,5 @@
 # seabirdsound
-
-
-##PGLS
+#PGLS
 PGLS\PGLS 1 - compute models.R = script to run through a list of PGLS models 
 "PGLS\bird phylogeny Mar 6 2020.nex" = phylogeny to be used in PGLS analysis
 "PGLS\PGLS 2 - plotting main effects.R" =  scripts to plot the main effects and non-significant PGLS models, based on the output of  PGLS 1
