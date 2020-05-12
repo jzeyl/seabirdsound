@@ -11,9 +11,9 @@
 
 **PCA**
 
-* "PGLS 4 - extract residuals.R"<- extract residuals for use in PCA analysis. Must be run after completing "PGLS\PGLS 1 - compute models.R"
+* "PGLS 4 - extract residuals.R" = extract residuals for use in PCA analysis. Must be run after completing "PGLS\PGLS 1 - compute models.R"
 
-* "phyPCA of PGLS residuals.R"<- PCA analysis and plotting
+* "phyPCA of PGLS residuals.R" = PCA analysis and plotting
 
 **ICC**
 
