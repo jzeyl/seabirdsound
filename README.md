@@ -17,6 +17,6 @@
 
 **ICC**
 
-* "ICC\ICC_.R" = script to run ICC
+* "ICC_.R" = script to run ICC
 
-* "ICC\May4_all ICC.csv" = data for running ICC
+* "May4_all ICC.csv" = data for running ICC
