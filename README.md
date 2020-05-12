@@ -1,4 +1,4 @@
-# seabirdsound
+# File descriptions
 **PGLS**
 
 * "PGLS 1 - compute models.R = script to run through a list of PGLS models 
