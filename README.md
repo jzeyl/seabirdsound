@@ -1,7 +1,8 @@
 # seabirdsound
 
 
-#PGLS
+##PGLS
+
 "PGLS\PGLS 1 - compute models.R" = script to run through a list of PGLS models 
 
 "PGLS\bird phylogeny Mar 6 2020.nex" = phylogeny to be used in PGLS analysis
@@ -10,12 +11,12 @@
 
 "PGLS\PGLS 3 -  plot interaction predicted values.R"<- plotting predicted values for interaction terms
 
-#PCA
+##PCA
 "PGLS\PGLS 4 - extract residuals.R"<- extract residuals for use in PCA analysis. Must be run after completing "PGLS\PGLS 1 - compute models.R"
 
 "PGLS\phyPCA of PGLS residuals.R"<- PCA analysis and plotting
 
-#ICC
+##ICC
 
 "PGLS\ICC\ICC_.R" = script to run ICC
 
